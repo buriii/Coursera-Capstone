@@ -11,6 +11,14 @@ The data set used met the following criteria:
 Problem background
 According to the World Health Organization https://www.who.int/violence_injury_prevention/road_safety_status/2018/en/, there were approximately 1.35 million people killed on 
 roadways around the world. Averagely there are almost 3,700 people killed globally in road traffic crashes. It was estimated to be the eighth leading cause of death globally 
-for all age groups and the leading cause of death for children and young people5-29 years of age. National Highway Traffic Safety Administration (NHTSA) data
+for all age groups and the leading cause of death for children and young people 5-29 years of age. National Highway Traffic Safety Administration (NHTSA) data
 https://injuryfacts.nsc.org/motor-vehicle/overview/introduction/ shows that in United States alone in year 2018, there were around 50,000 deaths from car accident and 
-4 million accidents that causes disabling and non-disabling injuries. 
+4 million accidents that causes disabling and non-disabling injuries. The causes of accident ranges from weather condition, driver condition to road condition. By being able to 
+predict the severity of accident based on several conditions, it could help insurance company to calculate the risk of the insurer based on the route they frequently used 
+and the weather condition of their area. This machine learning project could also suggest navigation systems on which route is the safest to the user.  
+
+Audience
+It was published in the Bulletin of the American Meteorological Society https://watermark.silverchair.com/bams-d-18-0001_1.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAApgwggKUBgkqhkiG9w0BBwagggKFMIICgQIBADCCAnoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM5k-uJzB9BjBGfNorAgEQgIICS0c6PWFNSFOfaZZiaabcD0DUAaKH0gW1JRywi5VhXGCpaIh9oz551y7dESxA83KLuWXlx0yQyiYLd-z9Ep0aOpJ7FAuGG6qPoIvNzGLc-3iWmFL9mKPp2ClsY7E39ZUaxhiW4aM65-c9J7Y0jRpmJn5Hlh0FRxrqgBOvEg-Dllpfq4F_GXy-xI087HX9MCsel0_9k-sZo7fvAE09hSMTJhNznLVg_zHAcsXJraZL__cPywSJQKPzKXw3WtlPE-vnWXQo-jVYuLPCu79b3OQjA4GRTu44WqSErLj_50k86TTFoFoE2YoK3NDb3idtiFotkoZt1AO8GgcuagSJZnyGi_Os9SuCNyH5mdr1HkXaE_duUIQIGnXuEIy4SuCzYYbdAVtrYW5RMOx8_lYvpwfsS3Fnge46NLSLooSQE0CScc4ayYKY0Xlph602GtdjXs_fStr6WKYXmF6q6vouX_pbr2lPm7t6zhaHR_B5QM36lmsDPQqhiGxpQt2dXtQq4t5u1vegNy45fNsZqkDi3y2icTfYkeGD-ThZ8b2vEI-6DDU06odup9EN7S4pKImhxyo0gOfjqjsyLvFlRvx-xLzTPxbNsaIpBG4aMV4pO9JprASzTnBLD7N2ti64vxrvTg0j70zUeaUZmfeewcfzzzFfn81j1Lpj0Etda2-l3fDDsC-KJBkCVx6uKZyKODwbbtoN8WDDqoRUDoo1bfKbLhZzeFDrJB3M9laO7BjFV3wB49ehkRS0DPg80-PqI7840Yc45n1aJxRauG9JJE8r 
+that there is a 34 percent increase in the risk of a fatal crash when precipitation is falling. Seattle is considered one of the state that has a lot of precipitation compared
+to other states in United States. This machine learning project is directed towards the people of Seattle as to how to reduce the risk of getting in an accident. It
+could also be used by the Department of Transportation to find ways on how to improve the traffics within Seattle and provide safetiness to its people.
