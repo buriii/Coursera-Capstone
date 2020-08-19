@@ -1,0 +1,16 @@
+Coursera Capstone Project - Car Accident Severity
+
+The objective of this project is to predict the severity of an accident based on the data that were collected from the Seattle City for collisions happened from 2004 to 2019. 
+
+The data set used met the following criteria: 
+
+1.The target or label columns should be accident " severity" in terms of human fatality, traffic delay, property damage, or any other type of accident bad impact. 
+2.The machine learning model should be able to predict accident "severity"
+3.To build a good model, the dataset should be rich and contain many observations (rows) and various attributes (columns)
+
+Problem background
+According to the World Health Organization https://www.who.int/violence_injury_prevention/road_safety_status/2018/en/, there were approximately 1.35 million people killed on 
+roadways around the world. Averagely there are almost 3,700 people killed globally in road traffic crashes. It was estimated to be the eighth leading cause of death globally 
+for all age groups and the leading cause of death for children and young people5-29 years of age. National Highway Traffic Safety Administration (NHTSA) data
+https://injuryfacts.nsc.org/motor-vehicle/overview/introduction/ shows that in United States alone in year 2018, there were around 50,000 deaths from car accident and 
+4 million accidents that causes disabling and non-disabling injuries. 
