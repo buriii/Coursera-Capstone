@@ -1,0 +1,4 @@
+This file would be presenting the data used for this machine learning project. The data was obtained from Seattle City Geo Data. The data records all types of 
+collisions from year 2004 to Present. Collisions are displayed at the intersection or mid-block of a segment. The data contains speed, light condition, road 
+condition etc. The purpose of the project is to use machine learning to predict the severity of an accident based on the datasets that was given. The dataset 
+"Data-Collisions.csv" was provided by SDOT GIS.
